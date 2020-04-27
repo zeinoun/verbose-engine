@@ -2,7 +2,7 @@
 
 ## Description
 
-Include a description of what has changed
+Include a description of what has changed - updates
 
 Fixes # (issue)
 
