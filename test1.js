@@ -3,5 +3,3 @@ var dev = "DEV";
 var test = "TEST";
 var qa = "QA";
 var prod = "PROD";
-var demo = "DEMO";
-var train = "TRAIN";
